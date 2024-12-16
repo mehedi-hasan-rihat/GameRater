@@ -14,13 +14,13 @@ Features =>
   (3) Watchlist Functionality
     Users can add games or items to their watchlist for easy tracking.
 
-  Backend with Expres s=>
+  Backend with Express=>
 
-  # Built with Express.js to create APIs for the application.
-  # Ensures smooth communication between the client and the server.
+  * Built with Express.js to create APIs for the application.
+  * Ensures smooth communication between the client and the server.
 
   Database with MongoDB
-    # MongoDB is used as the database management system to store user data, reviews, and watchlist items.
+    * MongoDB is used as the database management system to store user data, reviews, and watchlist items.
 
 Technologies Used => 
 
